@@ -1,0 +1,5 @@
+/node_modules/
+.nova/
+.vscode/
+prepros.config
+package-lock.json
