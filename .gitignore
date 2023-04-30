@@ -3,3 +3,6 @@
 .vscode/
 prepros.config
 package-lock.json
+.DS_Store
+.prettierrc
+.prettierrc
